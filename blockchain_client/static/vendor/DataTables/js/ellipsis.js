@@ -17,7 +17,7 @@
  *    of the string should not occur in the middle of a word (`true`) or if it
  *    can (`false`). This can allow the display of strings to look nicer, at the
  *    expense of showing less characters.
- * 2. `-type boolean` (optional - default `false`) - Escape HTML entities
+ * 3. `-type boolean` (optional - default `false`) - Escape HTML entities
  *    (`true`) or not (`false` - default).
  *
  * 
@@ -26,7 +26,7 @@
  *  
  *  @requires DataTables 1.10+
  *
- * @returns {Number} Calculated average
+ *  @returns {Number} Calculated average
  *
  *  @example
  *    // Restrict a column to 17 characters, don't split words
