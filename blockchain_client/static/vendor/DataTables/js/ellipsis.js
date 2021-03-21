@@ -20,10 +20,10 @@
  * 2. `-type boolean` (optional - default `false`) - Escape HTML entities
  *    (`true`) or not (`false` - default).
  *
- *  @name ellipsis
+ * 
  *  @summary Restrict output data to a particular length, showing anything
  *      longer with ellipsis and a browser provided tooltip on hover.
- *  @author [Allan Jardine](http://datatables.net)
+ *  
  *  @requires DataTables 1.10+
  *
  * @returns {Number} Calculated average
