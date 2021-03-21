@@ -1,8 +1,6 @@
 # Blockchain Python tutorial
 
-<div style="display:block;margin:auto;height:80%;width:80%">
-  <img src="blockchain-simulation.gif">
-</div>
+![Screen Shot 2021-03-21 at 19 42 40](https://user-images.githubusercontent.com/81108192/111918572-9f1daf80-8a7d-11eb-96f4-1ce129935b6e.png)
 
 The github repository contains a basic implementation of a blockchain and its client using Python. This blockchain has the following features:
 
